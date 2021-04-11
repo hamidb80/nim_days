@@ -1,0 +1,3061 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/amd64/cl.exe 
+Build flags: ;/nologo;/DWIN32;/D_WINDOWS;/W3;/utf-8;/MP;
+Id flags:  
+
+The output was:
+0
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/vcpkg/buildtrees/jasper/x64-windows-rel/CMakeFiles/3.20.0/CompilerIdC/CMakeCCompilerId.exe"
+
+

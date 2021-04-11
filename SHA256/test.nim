@@ -2,11 +2,11 @@ import sequtils, strutils, unittest
 import sha256
 
 suite "functionalities":
-  test "intToBinary":
-    check 001.intToBinary == @[[0, 0, 0, 0, 0, 0, 0, 1].toSeqBool]
-    check 088.intToBinary == @[[0, 1, 0, 1, 1, 0, 0, 0].toSeqBool]
-    check 127.intToBinary == @[[0, 1, 1, 1, 1, 1, 1, 1].toSeqBool]
-    check 280.intToBinary == @[
+  test "toBinary":
+    check 001.toBinary == @[[0, 0, 0, 0, 0, 0, 0, 1].toSeqBool]
+    check 088.toBinary == @[[0, 1, 0, 1, 1, 0, 0, 0].toSeqBool]
+    check 127.toBinary == @[[0, 1, 1, 1, 1, 1, 1, 1].toSeqBool]
+    check 280.toBinary == @[
       [0, 0, 0, 0, 0, 0, 0, 1].toSeqBool,
       [0, 0, 0, 1, 1, 0, 0, 0].toSeqBool
     ]

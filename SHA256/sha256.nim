@@ -25,7 +25,7 @@ func `not`*(s: seq[bool]): seq[bool] =
   s.mapIt not it
 
 
-func rightshifted*[T](s: seq[T]; num: Natural): seq[T] =
+func rightShifted*[T](s: seq[T]; num: Natural): seq[T] =
   repeat(false, num) & s[0..<s.len-num]
 
 func groupEvery*[T](s: seq[T]; num: Natural): seq[seq[T]] =
@@ -44,7 +44,7 @@ func toInt*(s: seq[bool]): int64 =
 
 const zeroList = [0, 0, 0, 0, 0, 0, 0, 0].toSeqBool
 
-func intToBinary*(num: int | int64; chunkBy = 8): seq[seq[bool]] {.inline.} =
+func toBinary*(num: int | int64; chunkBy = 8): seq[seq[bool]] {.inline.} =
   var
     numc = num
     binaryRepr: seq[bool]
@@ -62,7 +62,7 @@ func intToBinary*(num: int | int64; chunkBy = 8): seq[seq[bool]] {.inline.} =
   binaryRepr.groupEvery(chunkBy)
 
 func strToBinarySeq*(word: string): seq[seq[bool]] {.inline.} =
-  word.mapIt it.ord.intToBinary[0]
+  word.mapIt it.ord.toBinary[0]
 
 func add1toEnd(binarySeq: seq[seq[bool]]): seq[seq[bool]] {.inline.} =
   binarySeq & [1, 0, 0, 0, 0, 0, 0, 0].toSeqBool
@@ -75,7 +75,6 @@ func to512diviableMinus64*(binarySeq: seq[seq[bool]]): seq[seq[bool]] {.inline.}
 
     if r < 0: r + 512
     else: r
-
 
   binarySeq & repeat(zeroList, remaining div 8)
 
@@ -97,7 +96,7 @@ const
     0x9b05688c,
     0x1f83d9ab,
     0x5be0cd19,
-  ].mapIt it.intToBinary.concat
+  ].mapIt it.toBinary.concat
   roundK = [
     0x428a2f98'i64,
     0x71374491,
@@ -163,14 +162,13 @@ const
     0xa4506ceb,
     0xbef9a3f7,
     0xc67178f2
-  ].mapIt it.intToBinary(8*4).concat
+  ].mapIt it.toBinary(8*4).concat
 
 func sha256*(s: string): string =
-  let t = (s.len * 8).intToBinary
+  let t = (s.len * 8).toBinary(64)[0]
   var
-    table = concat([
-      s.strToBinarySeq.add1toEnd.to512diviableMinus64,
-      repeat(zeroList, 8 - t.len) & t])
+    table = 
+      s.strToBinarySeq.add1toEnd.to512diviableMinus64 & t.groupEvery(8)
 
     hs = hashes
 
@@ -179,18 +177,16 @@ func sha256*(s: string): string =
     for i in countup(0, chunk.len-1, 4):
       words.add concat(chunk[i..i+3])
 
-    doAssert words.len == 16
-
     for i in 16..<64:
       let
         s0 =
           (words[i-15].rotatedLeft -7) xor
           (words[i-15].rotatedLeft -18) xor
-          (words[i-15].rightshifted 3)
+          (words[i-15].rightShifted 3)
         s1 =
           (words[i-2].rotatedLeft -17) xor
           (words[i-2].rotatedLeft -19) xor
-          (words[i-2].rightshifted 10)
+          (words[i-2].rightShifted 10)
 
       words.add s0 + s1 + words[i-7] + words[i-16]
 
@@ -211,7 +207,7 @@ func sha256*(s: string): string =
 
         ch = (e and f) xor ((not e) and g)
         temp1 = h + s1 + ch + roundK[i] + words[i]
-
+        
         maj = (a and b) xor (a and c) xor (b and c)
         temp2 = s0 + maj
 
@@ -226,8 +222,8 @@ func sha256*(s: string): string =
 if isMainModule:
   if paramCount() != 2:
     echo "usage: "
-    echo "app.exe -s \"your string\""
-    echo "app.exe -f \"your file name\""
+    echo "app -s \"your string\""
+    echo "app -f \"your file name\""
   
   else:
     let inp =
