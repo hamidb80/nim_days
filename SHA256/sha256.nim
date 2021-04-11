@@ -24,6 +24,8 @@ func `and`*(a, b: seq[bool]): seq[bool] =
 func `not`*(s: seq[bool]): seq[bool] =
   s.mapIt not it
 
+template rotatedRight[T](a:seq[T], b: int): untyped=
+  a.rotatedLeft -b
 
 func rightShifted*[T](s: seq[T]; num: Natural): seq[T] =
   repeat(false, num) & s[0..<s.len-num]
@@ -180,12 +182,12 @@ func sha256*(s: string): string =
     for i in 16..<64:
       let
         s0 =
-          (words[i-15].rotatedLeft -7) xor
-          (words[i-15].rotatedLeft -18) xor
+          (words[i-15].rotatedRight 7) xor
+          (words[i-15].rotatedRight 18) xor
           (words[i-15].rightShifted 3)
         s1 =
-          (words[i-2].rotatedLeft -17) xor
-          (words[i-2].rotatedLeft -19) xor
+          (words[i-2].rotatedRight 17) xor
+          (words[i-2].rotatedRight 19) xor
           (words[i-2].rightShifted 10)
 
       words.add s0 + s1 + words[i-7] + words[i-16]
@@ -196,14 +198,14 @@ func sha256*(s: string): string =
     for i in 0..<64:
       let
         s0 =
-          (a.rotatedLeft -2) xor
-          (a.rotatedLeft -13) xor
-          (a.rotatedLeft -22)
+          (a.rotatedRight 2) xor
+          (a.rotatedRight 13) xor
+          (a.rotatedRight 22)
 
         s1 =
-          (e.rotatedLeft -6) xor
-          (e.rotatedLeft -11) xor
-          (e.rotatedLeft -25)
+          (e.rotatedRight 6) xor
+          (e.rotatedRight 11) xor
+          (e.rotatedRight 25)
 
         ch = (e and f) xor ((not e) and g)
         temp1 = h + s1 + ch + roundK[i] + words[i]
