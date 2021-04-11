@@ -14,6 +14,6 @@ nim r ./test.nim
 
 ## resources:
 
-[how sha-256 works? step-by-step](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/)
+* [how sha-256 works? step-by-step](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/)
 
-[how does sha-256 work? (video)](https://www.youtube.com/watch?v=f9EbD6iY9zI)
+* [how does sha-256 work? (video)](https://www.youtube.com/watch?v=f9EbD6iY9zI)
