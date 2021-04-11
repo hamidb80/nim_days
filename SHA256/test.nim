@@ -47,10 +47,6 @@ suite "sha256":
   test "hello world":
     check "hello world".sha256 == "B94D27B9934D3E08A52E52D7DA7DABFAC484EFE37A5380EE9088F7ACE2EFCDE9"
 
-  test "\\n":
-    check "\n".sha256 == "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B"
-
-
   test "sample.txt":
     check (sha256 readfile "sample.txt").tolower == "fcbb9be766b9cfdd0c1697fad8ca001879b48acbbcfd5460f71d8cef82cf0caa".toLower
     

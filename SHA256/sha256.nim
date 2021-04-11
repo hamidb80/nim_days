@@ -224,7 +224,14 @@ func sha256*(s: string): string =
 
 
 if isMainModule:
-  if paramCount() != 1:
-    echo "enter something to hash"
+  if paramCount() != 2:
+    echo "usage: "
+    echo "app.exe -s \"your string\""
+    echo "app.exe -f \"your file name\""
+  
   else:
-    echo sha256 paramStr 1
+    let inp =
+      if paramStr(1) == "-f": readFile paramStr(2)
+      else: paramStr(2)
+    
+    echo sha256 inp
