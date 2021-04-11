@@ -174,10 +174,10 @@ func sha256*(s: string): string =
 
     hs = hashes
 
-  for chunck in table.groupEvery(8*8):
+  for chunk in table.groupEvery(8*8):
     var words: seq[seq[bool]]
-    for i in countup(0, chunck.len-1, 4):
-      words.add concat(chunck[i..i+3])
+    for i in countup(0, chunk.len-1, 4):
+      words.add concat(chunk[i..i+3])
 
     doAssert words.len == 16
 
