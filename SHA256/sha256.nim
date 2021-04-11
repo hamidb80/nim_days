@@ -24,7 +24,7 @@ func `and`*(a, b: seq[bool]): seq[bool] =
 func `not`*(s: seq[bool]): seq[bool] =
   s.mapIt not it
 
-template rotatedRight[T](a:seq[T], b: int): untyped=
+template rotatedRight[T](a: seq[T], b: int): untyped =
   a.rotatedLeft -b
 
 func rightShifted*[T](s: seq[T]; num: Natural): seq[T] =
@@ -71,7 +71,7 @@ func add1toEnd(binarySeq: seq[seq[bool]]): seq[seq[bool]] {.inline.} =
 
 func to512diviableMinus64*(binarySeq: seq[seq[bool]]): seq[seq[bool]] {.inline.} =
   let remaining = block:
-    let 
+    let
       t = (binarySeq.len * 8) mod 512
       r = (512 - 64 - t)
 
@@ -90,91 +90,43 @@ func `$`*(s: seq[seq[bool]]): string =
 
 const
   hashes = [
-    0x6a09e667'i64,
-    0xbb67ae85,
-    0x3c6ef372,
-    0xa54ff53a,
-    0x510e527f,
-    0x9b05688c,
-    0x1f83d9ab,
-    0x5be0cd19,
+    0x6a09e667'i64, 0xbb67ae85,
+    0x3c6ef372, 0xa54ff53a,
+    0x510e527f, 0x9b05688c,
+    0x1f83d9ab, 0x5be0cd19
   ].mapIt it.toBinary.concat
   roundK = [
-    0x428a2f98'i64,
-    0x71374491,
-    0xb5c0fbcf,
-    0xe9b5dba5,
-    0x3956c25b,
-    0x59f111f1,
-    0x923f82a4,
-    0xab1c5ed5,
-    0xd807aa98,
-    0x12835b01,
-    0x243185be,
-    0x550c7dc3,
-    0x72be5d74,
-    0x80deb1fe,
-    0x9bdc06a7,
-    0xc19bf174,
-    0xe49b69c1,
-    0xefbe4786,
-    0x0fc19dc6,
-    0x240ca1cc,
-    0x2de92c6f,
-    0x4a7484aa,
-    0x5cb0a9dc,
-    0x76f988da,
-    0x983e5152,
-    0xa831c66d,
-    0xb00327c8,
-    0xbf597fc7,
-    0xc6e00bf3,
-    0xd5a79147,
-    0x06ca6351,
-    0x14292967,
-    0x27b70a85,
-    0x2e1b2138,
-    0x4d2c6dfc,
-    0x53380d13,
-    0x650a7354,
-    0x766a0abb,
-    0x81c2c92e,
-    0x92722c85,
-    0xa2bfe8a1,
-    0xa81a664b,
-    0xc24b8b70,
-    0xc76c51a3,
-    0xd192e819,
-    0xd6990624,
-    0xf40e3585,
-    0x106aa070,
-    0x19a4c116,
-    0x1e376c08,
-    0x2748774c,
-    0x34b0bcb5,
-    0x391c0cb3,
-    0x4ed8aa4a,
-    0x5b9cca4f,
-    0x682e6ff3,
-    0x748f82ee,
-    0x78a5636f,
-    0x84c87814,
-    0x8cc70208,
-    0x90befffa,
-    0xa4506ceb,
-    0xbef9a3f7,
-    0xc67178f2
+    0x428a2f98'i64, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5,
+    0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5,
+    0xd807aa98, 0x12835b01, 0x243185be, 0x550c7dc3,
+    0x72be5d74, 0x80deb1fe, 0x9bdc06a7, 0xc19bf174,
+    0xe49b69c1, 0xefbe4786, 0x0fc19dc6, 0x240ca1cc,
+    0x2de92c6f, 0x4a7484aa, 0x5cb0a9dc, 0x76f988da,
+    0x983e5152, 0xa831c66d, 0xb00327c8, 0xbf597fc7,
+    0xc6e00bf3, 0xd5a79147, 0x06ca6351, 0x14292967,
+    0x27b70a85, 0x2e1b2138, 0x4d2c6dfc, 0x53380d13,
+    0x650a7354, 0x766a0abb, 0x81c2c92e, 0x92722c85,
+    0xa2bfe8a1, 0xa81a664b, 0xc24b8b70, 0xc76c51a3,
+    0xd192e819, 0xd6990624, 0xf40e3585, 0x106aa070,
+    0x19a4c116, 0x1e376c08, 0x2748774c, 0x34b0bcb5,
+    0x391c0cb3, 0x4ed8aa4a, 0x5b9cca4f, 0x682e6ff3,
+    0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208,
+    0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2
   ].mapIt it.toBinary(8*4).concat
 
 func sha256*(s: string): string =
-  let t = (s.len * 8).toBinary(64)[0]
+  let length = (s.len * 8).toBinary(64)[0]
   var
-    table = 
-      s.strToBinarySeq.add1toEnd.to512diviableMinus64 & t.groupEvery(8)
+    table =
+      s
+      .strToBinarySeq
+      .add1toEnd
+      .to512diviableMinus64 & length.groupEvery(8)
 
     hs = hashes
 
   for chunk in table.groupEvery(8*8):
+
     var words: seq[seq[bool]]
     for i in countup(0, chunk.len-1, 4):
       words.add concat(chunk[i..i+3])
@@ -209,7 +161,7 @@ func sha256*(s: string): string =
 
         ch = (e and f) xor ((not e) and g)
         temp1 = h + s1 + ch + roundK[i] + words[i]
-        
+
         maj = (a and b) xor (a and c) xor (b and c)
         temp2 = s0 + maj
 
@@ -226,10 +178,10 @@ if isMainModule:
     echo "usage: "
     echo "app -s \"your string\""
     echo "app -f \"your file name\""
-  
+
   else:
     let inp =
       if paramStr(1) == "-f": readFile paramStr(2)
       else: paramStr(2)
-    
+
     echo sha256 inp
