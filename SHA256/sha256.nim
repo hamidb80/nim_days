@@ -3,8 +3,10 @@ import
   algorithm, math,
   os
 
+# operators ----------------------------------
+
 func `xor`*(a, b: seq[bool]): seq[bool] =
-  doAssert a.len == b.len, $(a, b)
+  doAssert a.len == b.len
   for i in 0..<a.len:
     result.add a[i] xor b[i]
 
@@ -24,6 +26,8 @@ func `and`*(a, b: seq[bool]): seq[bool] =
 func `not`*(s: seq[bool]): seq[bool] =
   s.mapIt not it
 
+# byte functions -------------------------------
+
 template rotatedRight[T](a: seq[T], b: int): untyped =
   a.rotatedLeft -b
 
@@ -34,8 +38,7 @@ func groupEvery*[T](s: seq[T]; num: Natural): seq[seq[T]] =
   for n in countup(0, s.len-1, num):
     result.add s[n..<n+num]
 
-func toSeqBool*(s: string): seq[bool]{.inline.} =
-  s.mapIt it == '1'
+# converts ---------------------------------------------
 
 func toSeqBool*(s: openArray[int]): seq[bool]{.inline.} =
   s.mapIt it == 1
@@ -43,8 +46,6 @@ func toSeqBool*(s: openArray[int]): seq[bool]{.inline.} =
 func toInt*(s: seq[bool]): int64 =
   for i in 0..<s.len:
     result += s[^(i+1)].int * (2^(i))
-
-const zeroList = [0, 0, 0, 0, 0, 0, 0, 0].toSeqBool
 
 func toBinary*(num: int | int64; chunkBy = 8): seq[seq[bool]] {.inline.} =
   var
@@ -63,32 +64,10 @@ func toBinary*(num: int | int64; chunkBy = 8): seq[seq[bool]] {.inline.} =
   binaryRepr.insert repeat(false, mustAdd), 0
   binaryRepr.groupEvery(chunkBy)
 
-func strToBinarySeq*(word: string): seq[seq[bool]] {.inline.} =
-  word.mapIt it.ord.toBinary[0]
-
-func add1toEnd(binarySeq: seq[seq[bool]]): seq[seq[bool]] {.inline.} =
-  binarySeq & [1, 0, 0, 0, 0, 0, 0, 0].toSeqBool
-
-func to512diviableMinus64*(binarySeq: seq[seq[bool]]): seq[seq[bool]] {.inline.} =
-  let remaining = block:
-    let
-      t = (binarySeq.len * 8) mod 512
-      r = (512 - 64 - t)
-
-    if r < 0: r + 512
-    else: r
-
-  binarySeq & repeat(zeroList, remaining div 8)
-
-func `$`*(s: seq[bool]): string =
-  s.mapIt(if it: 1 else: 0).join
-
-func `$`*(s: seq[seq[bool]]): string =
-  s.mapIt($it)
-    .distribute(s.len div 2).mapIt(it.join " ")
-    .join "\n"
+# constants ------------------------------------------------------
 
 const
+  zeroList = [0, 0, 0, 0, 0, 0, 0, 0].toSeqBool
   hashes = [
     0x6a09e667'i64, 0xbb67ae85,
     0x3c6ef372, 0xa54ff53a,
@@ -113,6 +92,26 @@ const
     0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208,
     0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2
   ].mapIt it.toBinary(8*4).concat
+
+# other fucntions ------------------------------------------------
+
+func add1toEnd(binarySeq: seq[seq[bool]]): seq[seq[bool]] {.inline.} =
+  binarySeq & [1, 0, 0, 0, 0, 0, 0, 0].toSeqBool
+
+func to512diviableMinus64*(binarySeq: seq[seq[bool]]): seq[seq[bool]] {.inline.} =
+  let remaining = block:
+    let
+      t = (binarySeq.len * 8) mod 512
+      r = (512 - 64 - t)
+
+    if r < 0: r + 512
+    else: r
+
+  binarySeq & repeat(zeroList, remaining div 8)
+
+func strToBinarySeq*(word: string): seq[seq[bool]] {.inline.} =
+  word.mapIt it.ord.toBinary[0]
+
 
 func sha256*(s: string): string =
   let length = (s.len * 8).toBinary(64)[0]

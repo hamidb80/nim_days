@@ -1,6 +1,20 @@
 import sequtils, strutils, unittest
 import sha256
 
+
+func `$`*(s: seq[bool]): string =
+  s.mapIt(if it: 1 else: 0).join
+
+func `$`*(s: seq[seq[bool]]): string =
+  s.mapIt($it)
+    .distribute(s.len div 2).mapIt(it.join " ")
+    .join "\n"
+
+
+func toSeqBool*(s: string): seq[bool]{.inline.} =
+  s.mapIt it == '1'
+
+
 suite "functionalities":
   test "toBinary":
     check 001.toBinary == @[[0, 0, 0, 0, 0, 0, 0, 1].toSeqBool]
