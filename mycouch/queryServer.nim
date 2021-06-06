@@ -2,14 +2,14 @@ import
   macros, macroutils,
   json, strformat
 
-proc parser(exp: NimNode): NimNode =
+proc parse(exp: NimNode): NimNode =
   case exp.kind:
   of nnkInfix:
     var
       op = exp[0].strVal  # operator
-      br1 = parser exp[1] # branch1
+      br1 = parse exp[1] # branch1
       br2 =
-        if exp.len == 3: parser exp[2]
+        if exp.len == 3: parse exp[2]
         else: newEmptyNode()
 
     case op:
@@ -75,7 +75,7 @@ proc parser(exp: NimNode): NimNode =
 
     return superQuote: {
       `br1[1].strVal`: {
-        `op`: `br2.parser`
+        `op`: `br2.parse`
       }
     }
   of nnkPrefix:
@@ -102,17 +102,16 @@ proc parser(exp: NimNode): NimNode =
     # $allMatch
     # $keyMapMatch
   of nnkPar:
-    return exp[0].parser
+    return exp[0].parse
 
   else:
     return exp
 
 macro mango*(exp: untyped): JsonNode =
-  doAssert exp.len == 1, "the query must be one expession"
+  doAssert exp.len == 1, "the query must be only one expession"
 
-  let res = parser exp[0]
-  quote:
-    %* {"selector": `res`}
+  superQuote: 
+    %* {"selector": `exp[0].parse`}
 
 
 #[ sample
