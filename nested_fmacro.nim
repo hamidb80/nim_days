@@ -14,7 +14,7 @@ macro forNest(infixExpr: untyped, body: untyped): untyped =
 
   result = superQuote:
     for `itrtors[0]` in 0..<`dest`.len:
-      `false`
+      nothing
 
   var forBody = result
   for c in 1..<itrtors.len:
@@ -22,12 +22,11 @@ macro forNest(infixExpr: untyped, body: untyped): untyped =
 
     forBody[2] = superQuote:
       for `itrtors[c]` in 0..<`dest`.len:
-        `true`
+        nothing
 
     forBody = forBody[2]
 
   forBody[2] = body
-
   return result
 
 macro newNestedSeqWith(s: openArray[int], defaultValue: untyped): untyped =
