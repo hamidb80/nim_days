@@ -1,13 +1,15 @@
-import macros, macroutils, json, strformat
+import
+  macros, macroutils,
+  json, strformat
 
-proc parseMangoProc(exp: NimNode): NimNode =
+proc parser(exp: NimNode): NimNode =
   case exp.kind:
   of nnkInfix:
     var
-      op = exp[0].strVal          # operator
-      br1 = parseMangoProc exp[1] # branch1
+      op = exp[0].strVal  # operator
+      br1 = parser exp[1] # branch1
       br2 =
-        if exp.len == 3: parseMangoProc exp[2]
+        if exp.len == 3: parser exp[2]
         else: newEmptyNode()
 
     case op:
@@ -73,7 +75,7 @@ proc parseMangoProc(exp: NimNode): NimNode =
 
     return superQuote: {
       `br1[1].strVal`: {
-        `op`: `br2.parseMangoProc`
+        `op`: `br2.parser`
       }
     }
   of nnkPrefix:
@@ -91,11 +93,6 @@ proc parseMangoProc(exp: NimNode): NimNode =
   of nnkCall:
     var op = exp[0].strVal # operator
 
-                           # br1 = parseMangoProc exp[1] # branch1
-                           # br2 =
-                           #   if exp.len == 3: parseMangoProc exp[2]
-                           #   else: newEmptyNode()
-
     # TODO:
     # $size AKA len
     # $not
@@ -105,26 +102,31 @@ proc parseMangoProc(exp: NimNode): NimNode =
     # $allMatch
     # $keyMapMatch
   of nnkPar:
-    return exp[0].parseMangoProc
+    return exp[0].parser
 
   else:
     return exp
 
-macro parseMango*(exp: untyped): JsonNode =
-  var selector: NimNode
-  selector = parseMangoProc(exp[0])
+macro mango*(exp: untyped): JsonNode =
+  doAssert exp.len == 1, "the query must be one expession"
 
+  let res = parser exp[0]
   quote:
-    %* {"selector": `selector`}
+    %* {"selector": `res`}
 
 
 #[ sample
 
-  parseMango:
+  mango:
     query:
       @name == "hamid" and @year notin [1399]
 
-    fields: ["name", "stars", ...]
+    fields:
+      ["name", "stars"]
+
+    sort: ...
+    skip: ...
+    limit: ...
 
   -------------------------------------
 
@@ -140,20 +142,20 @@ macro parseMango*(exp: untyped): JsonNode =
       }
     },
 
-    fields: ["name", "stars", ...]
+    fields: ["name", "stars"]
 
   }
 ]#
 
-block sample:
+block test:
   # let bad_year = 1399
-  var q = parseMango:
+  var q = mango:
     # @name == "hamid" or @year != bad_year
-    # @artist == "mohammadAli" and @genre notin ["pop", "rock"] or @artist == "iman khodaee"
+    @artist == "mohammadAli" and (@genre notin ["pop", "rock"] or @artist == "iman khodaee")
     # @year mod [4,2]
     # ?? @genre or ?! @genre
     # @year is myStringVar
-    @year is bool
+    # @year is bool
     # @a is array and (((@year == 1 or @hamid == 4)))
     # @year is number
 
