@@ -2,7 +2,7 @@ import
   macros, macroutils,
   json, strformat
 
-proc parse(exp: NimNode): NimNode =
+func parse(exp: NimNode): NimNode =
   case exp.kind:
   of nnkInfix:
     var
@@ -82,28 +82,48 @@ proc parse(exp: NimNode): NimNode =
     let op = exp[0].strVal
 
     if op == "@": return exp
-    elif op notin ["??", "?!"]: error fmt"prefix {op} is not defiend"
+    elif op == "not": 
+      return superQuote: {
+        "$not": `exp[1].parse`
+      }
+    elif op notin ["?=", "?!"]: error fmt"prefix {op} is not defiend"
 
     let field = exp[1][1].strVal
     return quote: {
       `field`: {
-        "$exists": `op` == "??"
+        "$exists": `op` == "?="
       }
     }
   of nnkCall:
-    var op = exp[0].strVal # operator
+    if exp[0].kind == nnkDotExpr:
+      assert exp[0][0].kind == nnkPrefix
+
+      let 
+        field = exp[0][0][1].strVal 
+        fn = exp[0][1].strVal
+        parameter = 
+          if exp.len == 2: exp[1]
+          else: nil
+
+      case fn:
+      of "size":
+        return quote: {
+          `field`: {
+            "$size": `parameter`
+          }
+        }
+      else: 
+        error fmt"function {fn} is not defined"
 
     # TODO:
-    # $size AKA len
-    # $not
-    # $nor
     # $all
     # $elemMatch
     # $allMatch
     # $keyMapMatch
+
   of nnkPar:
     return exp[0].parse
-
+  
   else:
     return exp
 
@@ -149,13 +169,13 @@ macro mango*(exp: untyped): JsonNode =
 block test:
   # let bad_year = 1399
   var q = mango:
-    # @name == "hamid" or @year != bad_year
-    @artist == "mohammadAli" and (@genre notin ["pop", "rock"] or @artist == "iman khodaee")
+    # @year != bad_year
     # @year mod [4,2]
-    # ?? @genre or ?! @genre
+    # ?= @genre or ?! @genre
     # @year is myStringVar
-    # @year is bool
-    # @a is array and (((@year == 1 or @hamid == 4)))
-    # @year is number
+    # @year is bool and (((@year == 1 or @hamid == 4)))
+    # not (@artist == "mohammadAli" and (@genre notin ["pop", "rock"] or @artist == "iman khodaee"))
+    # @artist == "mohammadAli" and (@genre notin ["pop", "rock"] or @artist == "iman khodaee")
+    @list.size(3)
 
   echo q.pretty
