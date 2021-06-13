@@ -1,0 +1,22 @@
+{
+  "picturePaths": {
+    "pawn": "./org/pawn.png",
+    "rook": "./org/rook.png",
+    "knight": "./org/knight.png",
+    "bishop": "./org/bishop.png",
+    "queen": "./org/queen.png",
+    "king": "./org/king.png"
+  },
+  "themes": [
+    {
+      "name": "pink",
+      "whiteColor": "#f751e0",
+      "blackColor": "#54274e"
+    },
+    {
+      "name": "cyan",
+      "whiteColor": "#c0ffee",
+      "blackColor": "#24755f"
+    }
+  ]
+}

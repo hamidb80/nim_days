@@ -4,4 +4,4 @@
 projects explaining:
   - `game-cheat`: unsuccessful programm to cheat in a game
   - `sha256`: sha-256 algorithm
-  - `pics_art`: produces 24 hue rotations of an image
+  - `chess_theme_maker`: produces chess pieces images by diffrent colors with given themes 
