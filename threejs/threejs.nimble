@@ -12,5 +12,8 @@ bin           = @["threejs"]
 
 requires "nim >= 1.5.1"
 
-task rundev, "builds the program":
+task builddev, "builds the program":
   exec "nim js -o:build/main.js src/main.nim"
+
+task buildrun, "builds the program":
+  exec "nim js -d:release -o:build/main.js src/main.nim"

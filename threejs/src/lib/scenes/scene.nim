@@ -1,7 +1,8 @@
-import jscore, jsffi
+import jsffi
+import ../core/object3D
 
 type
-  Scene {.importc.} = ref object of JsObject 
+  Scene {.importc.} = ref object of Object3D
     autoUpdate*: bool
 
-proc newScene*(): Scene {.importc: "new Scene(@)", constructor.}
+proc newScene*(): Scene {.importcpp: "new THREE.Scene()", constructor.}
