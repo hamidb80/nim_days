@@ -1,4 +1,4 @@
-import jsffi, dom, json
+import jsffi, dom
 import lib/[
   scenes/scene, cameras/perspectiveCamera, renderers/webGLRenderer,
   geometries/boxGeometry, materials/meshBasicMaterial,

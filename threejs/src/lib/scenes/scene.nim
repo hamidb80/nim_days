@@ -1,4 +1,3 @@
-import jsffi
 import ../core/object3D
 
 type

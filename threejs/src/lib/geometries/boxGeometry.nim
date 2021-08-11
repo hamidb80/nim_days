@@ -1,4 +1,3 @@
-import jsffi
 import ../core/bufferGeometry
 
 type

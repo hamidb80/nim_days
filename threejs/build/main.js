@@ -10,7 +10,7 @@ if (!Math.trunc) {
   };
 }
 
-var objectID_687866018 = [0];
+var objectID_671088802 = [0];
 
 function toFloat_33556001(i_33556002) {
   var result_33556003 = 0.0;
@@ -29,27 +29,31 @@ function HEX2F_33557570(x_33557571, y_33557572) {
   return result_33557573;
 
 }
-var s_469762060 = new THREE.Scene();
-var camera_469762061 = new THREE.PerspectiveCamera(75.0, HEX2F_33557570(window.innerWidth, window.innerHeight), 0.1, 1000.0);
-var renderer_469762062 = new THREE.WebGLRenderer();
-renderer_469762062.setSize(window.innerWidth, window.innerHeight, true);
-document.body.appendChild(renderer_469762062.domElement);
-var c_469762063 = {};
-c_469762063.color = 65280;
-var geometry_469762080 = new THREE.BoxGeometry(1.0, 1.0, 1.0, 1, 1, 1);
-var material_469762081 = new THREE.MeshBasicMaterial(c_469762063);
-var cube_469762082 = new THREE.Mesh(geometry_469762080, material_469762081);
-s_469762060.add((cube_469762082));
-camera_469762061.position.z = 5;
+var s_469762059 = new THREE.Scene();
+var camera_469762060 = new THREE.PerspectiveCamera(75.0, HEX2F_33557570(window.innerWidth, window.innerHeight), 0.1, 1000.0);
+var renderer_469762061 = new THREE.WebGLRenderer();
+renderer_469762061.setSize(window.innerWidth, window.innerHeight, true);
+document.body.appendChild(renderer_469762061.domElement);
+var c_469762062 = {};
+c_469762062.color = 65280;
+var geometry_469762079 = new THREE.BoxGeometry(1.0, 1.0, 1.0, 1, 1, 1);
+var material_469762080 = new THREE.MeshBasicMaterial(c_469762062);
+var cube_469762081 = new THREE.Mesh(geometry_469762079, material_469762080);
+s_469762059.add((cube_469762081));
+camera_469762060.position.z = 5;
 
-function HEX2BHEX3D_939526191(x_939526193, x_939526193_Idx, y_939526194) {
-    x_939526193[x_939526193_Idx] = (x_939526193[x_939526193_Idx] + y_939526194);
+function HEX2BHEX3D_469762206(x_469762208, x_469762208_Idx, y_469762209) {
+    x_469762208[x_469762208_Idx] = (x_469762208[x_469762208_Idx] + y_469762209);
+
+  
 }
 
-function animate_469762203() {
-    requestAnimationFrame(animate_469762203);
-    HEX2BHEX3D_939526191(cube_469762082.rotation, "x", 0.01);
-    HEX2BHEX3D_939526191(cube_469762082.rotation, "y", 0.01);
-    renderer_469762062.render((s_469762060), (camera_469762061));
+function animate_469762202() {
+    requestAnimationFrame(animate_469762202);
+    HEX2BHEX3D_469762206(cube_469762081.rotation, "x", 0.01);
+    HEX2BHEX3D_469762206(cube_469762081.rotation, "y", 0.01);
+    renderer_469762061.render((s_469762059), (camera_469762060));
+
+  
 }
-animate_469762203();
+animate_469762202();

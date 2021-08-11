@@ -1,4 +1,3 @@
-import jsffi
 import ../materials/material
 import ../core/[bufferGeometry, object3D]
 
