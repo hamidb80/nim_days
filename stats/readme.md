@@ -1,0 +1,4 @@
+## dependencies
+- bigints
+- plotly
+- chroma
