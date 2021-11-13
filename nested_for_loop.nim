@@ -39,14 +39,24 @@ macro newNestedSeqWith(s: openArray[int], defaultValue: untyped): untyped =
     argptr[2] = quote: newSeqWith(`i`, `defaultValue`)
     argptr = argptr[2]
   
-let matrix = [
-  [1, 2],
-  [3, 4],
-  [5, 6]
-]
+# let matrix = [
+#   [1, 2],
+#   [3, 4],
+#   [5, 6]
+# ]
 
 var res = newNestedSeqWith([matrix[0].len, matrix.len], 0)
+
+
 forNest [y, x] in matrix:
   res[x][y] = matrix[y][x]
+
+
+for y in 0 .. <matrix.len:
+  for x in 0 .. <matrix[y].len:
+    res[x][y] = matrix[y][x]
+
+
+
 
 echo (res.mapIt it.join" ").join "\n"
