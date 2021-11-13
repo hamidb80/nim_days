@@ -4,5 +4,6 @@
 couchdb/
 mycouch/
 karax/
+temp/
 
 play.*
