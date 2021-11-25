@@ -1,12 +1,12 @@
-import std/[sequtils, strutils, asyncdispatch, os, json, times]
+import std/[strutils, os, json]
 import ./blockchain
-import nimsha2, jester
+import jester
 
 let blkchain = initBlockChain()
 
 router myrouter:
   get "/mine_block":
-    var
+    let
       previous_block = blkchain.last()
       previous_proof = previous_block.proof
       proof = proof_of_work(previous_proof)
@@ -15,10 +15,7 @@ router myrouter:
 
     resp %*{
       "message": "Congratulations, you just mined a block little fella!",
-      "index": b.index,
-      "timestamp": b.timestamp,
-      "proof": b.proof,
-      "previous_hash": b.previous_hash
+      "block": %b
     }
 
   # Return the full blkchain
@@ -30,10 +27,12 @@ router myrouter:
 
   # Check to see if the chain is valid
   get "/is_valid":
-    if is_chain_valid(blkchain.chain):
-      resp %*{"message": "The blkchain is valid!"}
-    else:
-      resp %*{"message": "The blkchain is invalid!"}
+    resp(
+      if is_chain_valid(blkchain.chain):
+        %*{"message": "The blkchain is valid!"}
+      else:
+        %*{"message": "The blkchain is invalid!"}
+    )
 
 proc main() =
   let port = paramStr(1).parseInt().Port
