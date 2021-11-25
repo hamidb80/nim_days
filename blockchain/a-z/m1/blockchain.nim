@@ -3,13 +3,13 @@ import nimsha2
 
 type
   Block* = ref object
-    index: int
-    proof: int
-    timestamp: string
-    previous_hash: string
+    index*: int
+    proof*: int
+    timestamp*: string
+    previous_hash*: string
 
   BlockChain* = ref object
-    chain: seq[Block]
+    chain*: seq[Block]
 
 proc `^`(x, n: int): int=
   result = 1
@@ -22,7 +22,6 @@ proc newBlock*(i: int, proof: int, ts: string, preHash: string): Block=
   result.proof = proof
   result.timestamp = ts
   result.previous_hash =preHash
-
 
 proc addBlock*(bc:BlockChain, proof: int, previous_hash: string): Block =
   result = new Block
@@ -44,7 +43,7 @@ proc last*(bc: BlockChain): Block=
 proc pphash*(newp, prevp: int): string=
   $ computeSHA256 $(newp^2 - prevp^2)
 
-proc proofOfWord*(previous_proof: int): int =
+proc proofOfWork*(previous_proof: int): int =
   var 
     new_proof = 1
     check_proof = false
@@ -59,7 +58,7 @@ proc proofOfWord*(previous_proof: int): int =
   
   new_proof
 
-proc hash(b: Block): string = 
+proc hash*(b: Block): string = 
   $computeSHA256($ % b)
 
 proc isChainValid*(chain: seq[Block]): bool =
