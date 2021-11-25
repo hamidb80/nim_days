@@ -2,7 +2,7 @@ import sugar
 import formula
 
 
-proc drawFuncWith(probability: float)=
+proc drawFuncWith(probability: float) =
   let points = collect newseq:
     for k in 0..100:
       (k.float, poisson(100, k, probability))
