@@ -1,4 +1,4 @@
-import std/[sequtils, strutils, asyncdispatch, os, json]
+import std/[sequtils, strutils, asyncdispatch, os, json, times]
 import nimsha2, jester
 
 router myrouter:
