@@ -6,16 +6,9 @@ let blkchain = initBlockChain()
 
 router myrouter:
   get "/mine_block":
-    let
-      previous_block = blkchain.last
-      previous_proof = previous_block.proof
-      proof = proof_of_work previous_proof
-      previous_hash = previous_block.hash
-      b = blkchain.addBlock(proof, previous_hash)
-
     resp %*{
       "message": "Congratulations, you just mined a block little fella!",
-      "block": %b
+      "block": % blkchain.mineBlock
     }
 
   # Return the full blkchain

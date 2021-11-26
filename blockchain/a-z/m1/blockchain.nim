@@ -37,25 +37,23 @@ proc initBlockChain*: BlockChain =
   result = new BlockChain
   discard result.addBlock(1, "0")
 
-proc last*(bc: BlockChain): Block = bc.chain[^1]
+proc last*(bc: BlockChain): Block =
+  bc.chain[^1]
 
 proc pphash*(newp, prevp: int): string =
   hex computeSHA256 $(newp^2 - prevp^2)
 
 proc proofOfWork*(previous_proof: int): int =
-  var
-    new_proof = 1
-    check_proof = false
+  var new_proof = 1
 
-  while not check_proof:
+  while true:
     let hash_operation = pphash(new_proof, previous_proof)
 
     if hash_operation[0 ..< 4] == "0000":
-      check_proof = true
+      return new_proof
     else:
       new_proof.inc
 
-  new_proof
 
 proc hash*(b: Block): string =
   hex computeSHA256( $ % b)
@@ -71,10 +69,7 @@ proc isChainValid*(chain: seq[Block]): bool =
     if b.previous_hash != hash(previous_block):
       return false
 
-    let
-      previous_proof = previous_block.proof
-      proof = b.proof
-      hash_operation = pphash(proof, previous_proof)
+    let hash_operation = pphash(b.proof, previous_block.proof)
 
     if hash_operation[0..<4] != "0000":
       return false
@@ -83,3 +78,11 @@ proc isChainValid*(chain: seq[Block]): bool =
     block_index += 1
 
   true
+
+proc mineBlock*(bc: BlockChain): Block =
+  let
+    previous_block = bc.last
+    previous_proof = previous_block.proof
+    proof = proof_of_work previous_proof
+
+  bc.addBlock(proof, previous_block.hash)
