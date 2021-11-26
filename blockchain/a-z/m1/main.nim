@@ -1,4 +1,4 @@
-import std/[strutils, os, json]
+import std/[strutils, os, json, strformat]
 import ./blockchain
 import jester
 
@@ -20,20 +20,18 @@ router myrouter:
 
   # Check to see if the chain is valid
   get "/is_valid":
-    let msg = 
-      if is_chain_valid(blkchain.chain):
-        "The blkchain is valid!"
-      else:
-        "The blkchain is invalid!"
-    
-    resp %*{"message": msg}
+    let result =
+      if is_chain_valid(blkchain.chain): "valid"
+      else: "invalid"
+
+    resp %*{"message": fmt"The blkchain is {result}!"}
 
 # ------------------------------------
 
 proc main() =
   let port = paramStr(1).parseInt().Port
-  let settings = newSettings(port=port)
-  var jester = initJester(myrouter, settings=settings)
+  let settings = newSettings(port = port)
+  var jester = initJester(myrouter, settings = settings)
   jester.serve()
 
 when isMainModule:

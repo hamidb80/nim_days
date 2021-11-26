@@ -51,31 +51,25 @@ proc proofOfWork*(previous_proof: int): int =
 
     if hash_operation[0 ..< 4] == "0000":
       return new_proof
-    else:
-      new_proof.inc
+
+    new_proof.inc
 
 
 proc hash*(b: Block): string =
   hex computeSHA256( $ % b)
 
 proc isChainValid*(chain: seq[Block]): bool =
-  var
-    previous_block = chain[0]
-    block_index = 1
+  for i in 1 .. chain.high:
+    let 
+      b = chain[i]
+      prev_b = chain[i-1]
 
-  while block_index < chain.len:
-    let b = chain[block_index]
-
-    if b.previous_hash != hash(previous_block):
+    if b.previous_hash != hash(prev_b):
       return false
 
-    let hash_operation = pphash(b.proof, previous_block.proof)
-
+    let hash_operation = pphash(b.proof, prev_b.proof)
     if hash_operation[0..<4] != "0000":
       return false
-
-    previous_block = b
-    block_index += 1
 
   true
 
