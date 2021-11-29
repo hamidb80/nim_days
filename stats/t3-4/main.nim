@@ -5,7 +5,7 @@ const
   Broken = false
   Total = 1_000_000
 
-proc p1(): int =
+proc p6(): int =
   var
     lamps = Broken.repeat(20) & Healthy.repeat(80)
     desired = 0
@@ -19,7 +19,7 @@ proc p1(): int =
   desired
 
 
-proc p2(): int =
+proc p5(): int =
   var desired = 0
   for _ in 1..Total:
     let broken =
@@ -36,9 +36,9 @@ proc p2(): int =
 
 
 for _ in 1..10:
-  echo p1() / Total
+  echo p5() / Total
 
 echo "-----------------"
 
 for _ in 1..10:
-  echo p2() / Total
+  echo p6() / Total
