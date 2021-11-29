@@ -23,9 +23,11 @@ proc p2(): int =
   var desired = 0
   for _ in 1..Total:
     let broken =
-      (1..12).toseq()
-      .mapIt(rand(1..100) <= 20)
-      .countIt(it == true)
+      (1..12)
+      .toseq()
+      .mapIt(rand 1..100)
+      .filterIt(it <= 20)
+      .len
 
     if broken == 3:
       desired += 1
