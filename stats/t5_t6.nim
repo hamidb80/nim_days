@@ -39,7 +39,7 @@ proc p5_1(Select, Desired: int): float =
 proc p5_2(Select, Desired: int): float =
   for _ in 1..Total:
     let broken =
-      (1..Size)
+      Size
       .toseq()
       .mapIt((rand 1..Size) <= B)[0..<Select]
       .countIt(it == true)
