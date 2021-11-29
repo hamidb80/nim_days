@@ -19,7 +19,7 @@ proc p6(): int =
   desired
 
 
-proc p5(): int =
+proc p5_1(): int =
   var desired = 0
   for _ in 1..Total:
     let broken =
@@ -35,10 +35,29 @@ proc p5(): int =
   desired
 
 
-for _ in 1..10:
-  echo p5() / Total
+proc p5_2(): int =
+  var desired = 0
+  for _ in 1..Total:
+    let broken = 
+      (1..100)
+      .toseq()
+      .mapIt((rand 1..100) <= 20)[0..<12]
+      .countIt(it == true)
 
-echo "-----------------"
+    if broken == 3:
+      desired += 1
 
-for _ in 1..10:
-  echo p6() / Total
+  desired
+
+# ------------------------------------------------
+
+template calc(title, fn): untyped =
+  echo "<<< ", title, " >>>"
+
+  for _ in 1..10:
+    echo fn() / Total
+  
+
+calc "p5_1", p5_1
+calc "p5_2", p5_2
+calc "p6", p6
