@@ -50,6 +50,7 @@ proc p5_2(Select, Desired: int): float =
 
 when isMainModule:
   import formula
+  randomize()
   
   const select = 12
   var rp5, rp6: seq[Point]

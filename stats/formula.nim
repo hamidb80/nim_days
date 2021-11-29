@@ -1,6 +1,8 @@
 import sequtils, math, strutils, random
 import bigints, plotly, chroma
 
+randomize()
+
 func fact(n: Natural): Bigint =
   if n == 0: initbigint 1
   else: (1..n).toSeq.mapIt(it.initbigint).foldl a * b
@@ -28,12 +30,13 @@ type Point* = tuple[x, y: float]
 
 converter validPoint*(p: tuple[x: int, y: float]): Point =
   (p.x.float, p.y)
-
-proc randColor(): Color =
-  template rcch: untyped = # random color channel
-    rand(0.8) + 0.1
   
-  Color(r: rcch, g: rcch, b: rcch, a: 1.0)
+proc rcch: float = 
+  ## random color channel
+  rand(0.8) + 0.1
+  
+proc randColor(): Color =
+  Color(r: rcch(), g: rcch(), b: rcch(), a: 1.0)
 
 proc showInDiagram*(lines: varargs[seq[Point]]) =
   show Plot[float](
