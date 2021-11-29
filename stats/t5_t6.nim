@@ -4,12 +4,15 @@ import formula
 const
   Healthy = true
   Broken = false
+  Size = 100
+  B = 80
+  H = Size - B
   Total = 1_000_000
 
 func toseq(n: int): seq[int] = (1..n).toseq
 
 proc p6(Select, Desired: int): float =
-  var lamps = Broken.repeat(20) & Healthy.repeat(80)
+  var lamps = Broken.repeat(B) & Healthy.repeat(H)
 
   for _ in 1..Total:
     lamps.shuffle()
@@ -25,8 +28,8 @@ proc p5_1(Select, Desired: int): float =
     let broken =
       Select
       .toseq()
-      .mapIt(rand 1..100)
-      .countIt(it <= 20)
+      .mapIt(rand 1..Size)
+      .countIt(it <= B)
 
     if broken == Desired:
       result += 1
@@ -36,9 +39,9 @@ proc p5_1(Select, Desired: int): float =
 proc p5_2(Select, Desired: int): float =
   for _ in 1..Total:
     let broken =
-      (1..100)
+      (1..Size)
       .toseq()
-      .mapIt((rand 1..100) <= 20)[0..<Select]
+      .mapIt((rand 1..Size) <= B)[0..<Select]
       .countIt(it == true)
 
     if broken == Desired:
@@ -55,7 +58,7 @@ when isMainModule:
   const select = 12
   var rp5, rp6: seq[Point]
 
-  for desired in 1..8:
+  for desired in 1..select:
     rp5.add (desired, p5_1(select, desired))
     rp6.add (desired, p6(select, desired))
 
