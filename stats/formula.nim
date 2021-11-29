@@ -1,4 +1,4 @@
-import sequtils, math, strutils
+import sequtils, math, strutils, random
 import bigints, plotly, chroma
 
 func fact(n: Natural): Bigint =
@@ -26,17 +26,22 @@ func poisson*(n, k: Natural, p: float): float =
 
 type Point* = tuple[x, y: float]
 
-proc showInDiagram*(points: openArray[Point]) =
-  let d = Trace[float](
-    mode: PlotMode.LinesMarkers,
-    `type`: PlotType.Scatter,
-    marker: Marker[float](size: @[16.0], color: @[
-      Color(r: 0.9, g: 0.4, b: 0.0, a: 1.0)]),
-    xs: points.mapit it[0],
-    ys: points.mapit it[1]
-  )
+converter validPoint*(p: tuple[x: int, y: float]): Point =
+  (p.x.float, p.y)
 
-  Plot[float](
+proc randColor(): Color =
+  template rcch: untyped = # random color channel
+    rand(0.8) + 0.1
+  
+  Color(r: rcch, g: rcch, b: rcch, a: 1.0)
+
+proc showInDiagram*(lines: varargs[seq[Point]]) =
+  show Plot[float](
     layout: Layout(width: 1200, height: 400),
-    traces: @[d]
-  ).show()
+    traces: lines.mapit(Trace[float](
+      mode: PlotMode.LinesMarkers,
+      `type`: PlotType.Scatter,
+      marker: Marker[float](size: @[16.0], color: @[randColor()]),
+      xs: it.mapit it[0],
+      ys: it.mapit it[1]
+  )))

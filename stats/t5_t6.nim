@@ -1,16 +1,14 @@
 import sequtils, random
+import formula
 
 const
   Healthy = true
   Broken = false
   Total = 1_000_000
-  Select = 12
-  Desired = 3
-  Repeat = 3
 
 func toseq(n: int): seq[int] = (1..n).toseq
 
-proc p6(): int =
+proc p6(Select, Desired: int): float =
   var lamps = Broken.repeat(20) & Healthy.repeat(80)
 
   for _ in 1..Total:
@@ -19,21 +17,23 @@ proc p6(): int =
     if lamps[0..<Select].countIt(it == Broken) == Desired:
       result += 1
 
+  result / Total
 
-proc p5_1(): int =
+
+proc p5_1(Select, Desired: int): float =
   for _ in 1..Total:
     let broken =
       Select
       .toseq()
       .mapIt(rand 1..100)
-      .filterIt(it <= 20)
-      .len
+      .countIt(it <= 20)
 
     if broken == Desired:
       result += 1
 
+  result / Total
 
-proc p5_2(): int =
+proc p5_2(Select, Desired: int): float =
   for _ in 1..Total:
     let broken =
       (1..100)
@@ -44,15 +44,19 @@ proc p5_2(): int =
     if broken == Desired:
       result += 1
 
-# ------------------------------------------------
+  result / Total
 
-template calc(title, fn): untyped =
-  echo "<<< ", title, " >>>"
+# ----------------------------------
 
-  for _ in 1..Repeat:
-    echo fn() / Total
+when isMainModule:
+  import formula
+  
+  const select = 12
+  var rp5, rp6: seq[Point]
 
+  for desired in 1..8:
+    rp5.add (desired, p5_1(select, desired))
+    rp6.add (desired, p6(select, desired))
 
-calc "p5_1", p5_1
-calc "p5_2", p5_2
-calc "p6", p6
+  echo rp5, rp6
+  showInDiagram rp5, rp6
