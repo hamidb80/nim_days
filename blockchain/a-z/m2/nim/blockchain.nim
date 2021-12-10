@@ -50,8 +50,8 @@ proc newTransaction*(sendr, recvr: string, amnt: float): Transaction =
   result.receiver = recvr
   result.amount = amnt
 
-proc addTransaction*(bc: BlockChain, sendr, recvr: string, amnt: float): int =
-  bc.transactions.add newTransaction(sendr, recvr, amnt)
+proc addTransaction*(bc: BlockChain, tr: Transaction): int =
+  bc.transactions.add tr
   bc.lastBlock.index + 1
 
 proc pphash*(newp, prevp: int): string =

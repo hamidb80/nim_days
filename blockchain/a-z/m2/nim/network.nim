@@ -4,11 +4,14 @@ import ./blockchain
 type Network* = ref object
   nodes*: seq[string]
 
-proc add_node*(nt: Network, url: string) =
+proc initNetwork*: Network=
+  new Network
+
+proc addNode*(nt: Network, url: string) =
   doAssert parseUri(url).isAbsolute
   nt.nodes.add(url)
 
-proc replace_chain*(nt: Network, bc: BlockChain): Future[bool] {.async.} =
+proc replaceChain*(nt: Network, bc: BlockChain): Future[bool] {.async.} =
   let hc = newAsyncHttpClient()
 
   var
