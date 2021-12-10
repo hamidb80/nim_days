@@ -1,4 +1,4 @@
-import times, json
+import times, json, math
 import nimsha2
 
 type
@@ -7,14 +7,16 @@ type
     proof*: int
     timestamp*: string
     previous_hash*: string
+    transactions: seq[Transaction]
+
+  Transaction* = ref object
+    sender, receiver: string
+    amount: float
 
   BlockChain* = ref object
     chain*: seq[Block]
+    transactions: seq[Transaction]
 
-proc `^`(x, n: int): int =
-  result = 1
-  for _ in 1..n:
-    result *= x
 
 proc newBlock*(i: int, proof: int, ts: string, preHash: string): Block =
   result = new Block
@@ -30,15 +32,27 @@ proc addBlock*(bc: BlockChain, proof: int, previous_hash: string): Block =
     $now(),
     previous_hash
   )
+  result.transactions = bc.transactions
 
+  bc.transactions.setLen 0
   bc.chain.add result
 
 proc initBlockChain*: BlockChain =
   result = new BlockChain
   discard result.addBlock(1, "0")
 
-proc last*(bc: BlockChain): Block =
+proc lastBlock*(bc: BlockChain): Block =
   bc.chain[^1]
+
+proc newTransaction*(sendr, recvr: string, amnt: float): Transaction =
+  result = new Transaction
+  result.sender = sendr
+  result.receiver = recvr
+  result.amount = amnt
+
+proc addTransaction*(bc: BlockChain, sendr, recvr: string, amnt: float): int =
+  bc.transactions.add newTransaction(sendr, recvr, amnt)
+  bc.lastBlock.index + 1
 
 proc pphash*(newp, prevp: int): string =
   hex computeSHA256 $(newp^2 - prevp^2)
@@ -60,7 +74,7 @@ proc hash*(b: Block): string =
 
 proc isChainValid*(chain: seq[Block]): bool =
   for i in 1 .. chain.high:
-    let 
+    let
       b = chain[i]
       prev_b = chain[i-1]
 
@@ -75,7 +89,7 @@ proc isChainValid*(chain: seq[Block]): bool =
 
 proc mineBlock*(bc: BlockChain): Block =
   let
-    previous_block = bc.last
+    previous_block = bc.lastBlock
     previous_proof = previous_block.proof
     proof = proof_of_work previous_proof
 

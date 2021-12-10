@@ -19,7 +19,7 @@ class Blockchain:
                  'timestamp': str(datetime.datetime.now()),
                  'proof':  proof,
                  'previous_hash': previous_hash,
-                 'transaction': self.transactions
+                 'transactions': self.transactions
                  }
         self.transactions = []
         self.chain.append(block)
