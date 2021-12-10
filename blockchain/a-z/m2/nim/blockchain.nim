@@ -1,4 +1,4 @@
-import times, json, math
+import times, math, json
 import nimsha2
 
 type
@@ -7,44 +7,44 @@ type
     proof*: int
     timestamp*: string
     previous_hash*: string
-    transactions: seq[Transaction]
+    transactions*: seq[Transaction]
+
+  Chain* = seq[Block]
 
   Transaction* = ref object
     sender, receiver: string
     amount: float
 
   BlockChain* = ref object
-    chain*: seq[Block]
-    transactions: seq[Transaction]
+    chain*: Chain
+    transactions*: seq[Transaction]
 
+func `$`*(blk: Block): string =
+  pretty %*blk[]
 
-proc newBlock*(i: int, proof: int, ts: string, preHash: string): Block =
+func `$`*(bc: BlockChain): string =
+  pretty %*bc
+
+proc newBlock(proof: int, preHash: string): Block =
   result = new Block
-  result.index = i
   result.proof = proof
-  result.timestamp = ts
+  result.timestamp = $now()
   result.previous_hash = preHash
 
-proc addBlock*(bc: BlockChain, proof: int, previous_hash: string): Block =
-  result = newBlock(
-    bc.chain.len + 1,
-    proof,
-    $now(),
-    previous_hash
-  )
-  result.transactions = bc.transactions
-
+proc registerBlock*(bc: BlockChain, blk: Block) =
+  blk.index = bc.chain.len + 1
+  blk.transactions = bc.transactions
   bc.transactions.setLen 0
-  bc.chain.add result
+  bc.chain.add blk
 
 proc initBlockChain*: BlockChain =
   result = new BlockChain
-  discard result.addBlock(1, "0")
+  result.registerBlock newBlock(1, "0")
 
-proc lastBlock*(bc: BlockChain): Block =
+func lastBlock*(bc: BlockChain): Block =
   bc.chain[^1]
 
-proc newTransaction*(sendr, recvr: string, amnt: float): Transaction =
+func newTransaction*(sendr, recvr: string, amnt: float): Transaction =
   result = new Transaction
   result.sender = sendr
   result.receiver = recvr
@@ -54,10 +54,10 @@ proc addTransaction*(bc: BlockChain, tr: Transaction): int =
   bc.transactions.add tr
   bc.lastBlock.index + 1
 
-proc pphash*(newp, prevp: int): string =
+func pphash*(newp, prevp: int): string =
   hex computeSHA256 $(newp^2 - prevp^2)
 
-proc proofOfWork*(previous_proof: int): int =
+func proofOfWork*(previous_proof: int): int =
   var new_proof = 1
 
   while true:
@@ -69,20 +69,22 @@ proc proofOfWork*(previous_proof: int): int =
     new_proof.inc
 
 
-proc hash*(b: Block): string =
-  hex computeSHA256( $ % b)
+func hash*(b: Block): string =
+  hex computeSHA256( $ b[])
 
-proc isChainValid*(chain: seq[Block]): bool =
+func isChainValid*(chain: Chain): bool =
   for i in 1 .. chain.high:
     let
       b = chain[i]
       prev_b = chain[i-1]
 
     if b.previous_hash != hash(prev_b):
+      debugEcho "hash consistency"
       return false
 
     let hash_operation = pphash(b.proof, prev_b.proof)
     if hash_operation[0..<4] != "0000":
+      debugEcho "hash limit"
       return false
 
   true
@@ -93,4 +95,18 @@ proc mineBlock*(bc: BlockChain): Block =
     previous_proof = previous_block.proof
     proof = proof_of_work previous_proof
 
-  bc.addBlock(proof, previous_block.hash)
+  result = newBlock(proof, bc.lastBlock.hash)
+  bc.registerBlock result
+
+proc replaceChain*(bc: BlockChain, chains: seq[Chain]): bool =
+  var longestChain: Chain = bc.chain
+
+  for ch in chains:
+    if (longestChain.len < ch.len) and isChainValid(ch):
+      longestChain = ch
+
+  if bc.chain.len != longestChain.len:
+    bc.chain = longestChain
+    true
+  else:
+    false

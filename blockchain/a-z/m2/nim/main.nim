@@ -10,15 +10,13 @@ router myrouter:
   get "/mine_block":
     resp %*{
       "message": "Congratulations, you just mined a block little fella!",
-      "block": % blkchain.mineBlock
-    }
+      "block": % blkchain.mineBlock}
 
   # Return the full blkchain
   get "/get_chain":
     resp %*{
       "chain": blkchain.chain,
-      "length": blkchain.chain.len
-    }
+      "length": blkchain.chain.len}
 
   # Check to see if the chain is valid
   get "/is_valid":
@@ -36,7 +34,7 @@ router myrouter:
     try:
       tr = data.to(Transaction)
     except JsonKindError:
-      resp Http400
+      resp Http400, %*{"error": "request body is not valid"}
 
     let index = blkchain.addTransaction tr
     resp Http201, %*{"message": fmt"This transaction will be added to Block {index}"}
@@ -45,8 +43,8 @@ router myrouter:
   post "/connect_node":
     let data = parseJson @"payload"
 
-    for node in data["nodes"].to(seq[string]):
-      nt.addNode(node)
+    for nodeUrl in data["nodes"].to(seq[string]):
+      nt.addNode(nodeUrl)
 
     resp Http201, %*{"total_nodes": nt.nodes}
 
@@ -64,7 +62,7 @@ router myrouter:
 
 # ------------------------------------
 
-proc main() =
+proc main =
   let port = paramStr(1).parseInt().Port
   let settings = newSettings(port = port)
   var jester = initJester(myrouter, settings = settings)
