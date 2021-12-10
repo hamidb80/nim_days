@@ -13,7 +13,6 @@ proc addNode*(nt: Network, url: string) =
 
 proc replaceChain*(nt: Network, bc: BlockChain): Future[bool] {.async.} =
   let hc = newAsyncHttpClient()
-  var chains: seq[Chain]
 
   for url in nt.nodes:
     let resp = await hc.get url
@@ -23,6 +22,6 @@ proc replaceChain*(nt: Network, bc: BlockChain): Future[bool] {.async.} =
         data = parseJson await resp.body
         chain = data["chain"].to(seq[Block])
 
-      chains.add chain
+      result = bc.replaceChain chain
 
-  return bc.replaceChain chains
+  return result

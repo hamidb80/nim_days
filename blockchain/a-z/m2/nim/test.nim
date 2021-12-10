@@ -49,7 +49,7 @@ suite "block chain functionality":
     doAssert chains.allIt(it.isChainValid)
 
     let largetsChain = chains[chains.mapIt(it.len).maxIndex()]
-    check bc.replaceChain(chains)
+    check chains.anyIt bc.replaceChain(it)
     check bc.chain.len == largetsChain.len
     check bc.chain == largetsChain
 

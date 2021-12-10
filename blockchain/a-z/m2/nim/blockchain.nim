@@ -98,15 +98,7 @@ proc mineBlock*(bc: BlockChain): Block =
   result = newBlock(proof, bc.lastBlock.hash)
   bc.registerBlock result
 
-proc replaceChain*(bc: BlockChain, chains: seq[Chain]): bool =
-  var longestChain: Chain = bc.chain
-
-  for ch in chains:
-    if (longestChain.len < ch.len) and isChainValid(ch):
-      longestChain = ch
-
-  if bc.chain.len != longestChain.len:
-    bc.chain = longestChain
-    true
-  else:
-    false
+proc replaceChain*(bc: BlockChain, newchain: Chain): bool =
+  if (bc.chain.len < newchain.len) and isChainValid(newchain):
+    bc.chain = newchain
+    return true
