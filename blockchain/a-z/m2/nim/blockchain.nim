@@ -52,7 +52,7 @@ func newTransaction*(sendr, recvr: string, amnt: float): Transaction =
 
 proc addTransaction*(bc: BlockChain, tr: Transaction): int =
   bc.transactions.add tr
-  bc.lastBlock.index + 1
+  bc.lastBlock.index
 
 func pphash*(newp, prevp: int): string =
   hex computeSHA256 $(newp^2 - prevp^2)

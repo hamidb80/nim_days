@@ -33,11 +33,11 @@ router myrouter:
 
     try:
       tr = data.to(Transaction)
+      let index = blkchain.addTransaction tr
+      resp Http201, %*{"message": fmt"This transaction will be added to Block {index}"}
+
     except JsonKindError:
       resp Http400, %*{"error": "request body is not valid"}
-
-    let index = blkchain.addTransaction tr
-    resp Http201, %*{"message": fmt"This transaction will be added to Block {index}"}
 
   # Connecting new nodes
   post "/connect_node":
