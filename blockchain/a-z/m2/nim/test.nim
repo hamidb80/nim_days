@@ -1,6 +1,8 @@
 import std/[unittest, sequtils, oids, random]
 import ./blockchain
 
+# utils ------------------------------------
+
 randomize()
 
 proc newArbitaryTransaction: Transaction =
@@ -10,6 +12,7 @@ proc genTransactions(bc: BlockChain, max: int) =
   for _ in 1..max: # transactions of a block
     discard bc.addTransaction newArbitaryTransaction()
 
+# tests ------------------------------------
 
 suite "block chain functionality":
   let bc = initBlockChain()
@@ -35,10 +38,9 @@ suite "block chain functionality":
 
   test "replace chain":
     var chains: seq[Chain] = @[bc.chain]
-
     for n in 1..6:
       let tmpBC = initBlockChain()
-
+      
       for blockCount in 1..rand(1..10): # gen block
         tmpBC.genTransactions rand(2..12)
         discard tmpBC.mineBlock
@@ -47,7 +49,6 @@ suite "block chain functionality":
       chains.add tmpBC.chain
 
     doAssert chains.allIt(it.isChainValid)
-
     let largetsChain = chains[chains.mapIt(it.len).maxIndex()]
     check chains.anyIt bc.replaceChain(it)
     check bc.chain.len == largetsChain.len

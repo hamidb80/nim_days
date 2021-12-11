@@ -79,12 +79,10 @@ func isChainValid*(chain: Chain): bool =
       prev_b = chain[i-1]
 
     if b.previous_hash != hash(prev_b):
-      debugEcho "hash consistency"
       return false
 
     let hash_operation = pphash(b.proof, prev_b.proof)
     if hash_operation[0..<4] != "0000":
-      debugEcho "hash limit"
       return false
 
   true
